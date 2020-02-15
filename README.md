@@ -2,7 +2,7 @@
 
 This is the workshop source code repository for the [ML Engineering
 Workshop at IIT](https://chicago.ml/2020/02/15/ml-engineering-at-itt/)
-on Feb 15, 20202.
+on Feb 15, 2020.
 
 ## Slack Channel
 
